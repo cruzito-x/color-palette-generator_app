@@ -6,6 +6,11 @@
 
 html {
  scroll-behavior: smooth;
+ overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+ width: 0px;
 }
 
 body{
@@ -146,4 +151,10 @@ p.author a {
  text-decoration: none;
  font-weight: 700;
  color: #000000;
+}
+
+@media (max-width: 767px) {
+ .form-colors h1 {
+  line-height: 75px;
+ }
 }
