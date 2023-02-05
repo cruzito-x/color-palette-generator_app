@@ -9,7 +9,7 @@ const Form = ({setList}) => {
   event.preventDefault();
   
   try {
-   let colors = new Values(color).all(2.01);
+   let colors = new Values(color).all(5);
    setList(colors);
    setError(false);
   } catch(error) {
