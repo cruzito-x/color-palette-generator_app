@@ -2,7 +2,7 @@ import {useState} from 'react';
 import Values from 'values.js';
 
 const Form = ({setList}) => {
- const [color, setColor] = useState('blue');
+ const [color, setColor] = useState('#05B0FF');
  const [error, setError] = useState(false);
 
  const handleGenerator = event => {
