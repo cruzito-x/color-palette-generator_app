@@ -96,6 +96,7 @@ body{
 }
 
 .form-colors input[type="text"] {
+ width: 30%;
  font-size: inherit;
  padding: 12px 13px;
  outline: none;
@@ -154,6 +155,10 @@ p.author a {
 }
 
 @media (max-width: 767px) {
+ .form-colors input {
+  margin-top: -35px;
+ }
+
  .form-colors h1 {
   line-height: 75px;
  }

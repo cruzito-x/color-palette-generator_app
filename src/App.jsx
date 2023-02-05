@@ -5,7 +5,7 @@ import DisplayColors from './components/DisplayColors';
 import './App.css';
 
 function App() {
- const [list, setList] = useState(new Values('blue').all(2.01));
+ const [list, setList] = useState(new Values('#05B0FF').all(5));
 
  console.log(list);
 
