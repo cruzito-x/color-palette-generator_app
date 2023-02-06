@@ -8,8 +8,6 @@
 
 # 🏴 Getting Started
 
-
-
 `git clone https://github.com/garu2/Color-Generator-React.git` <br>
 `cd Color-Generator-React` <br>
 `npm install` <br>
