@@ -8,7 +8,7 @@
 
 # 🏴 Getting Started
 
-`git clone https://github.com/cruzito-exe/Color-Generator-React.git` <br>
+`git clone https://github.com/cruzito-exe/color-palette-generator_app.git` <br>
 `cd color-palette-generator_app` <br>
 `npm install` <br>
 `npm run dev`
