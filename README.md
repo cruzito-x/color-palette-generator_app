@@ -4,12 +4,12 @@
 
 # 🪐 Demo
 
-[Deploy](https://color-palette-generator-app-cruzito-exe.vercel.app/)
+[Deploy](https://simple-weather-app-cruzito-exe.vercel.app)
 
 # 🏴 Getting Started
 
-`git clone https://github.com/garu2/Color-Generator-React.git` <br>
-`cd Color-Generator-React` <br>
+`git clone https://github.com/cruzito-exe/Color-Generator-React.git` <br>
+`cd color-palette-generator_app` <br>
 `npm install` <br>
 `npm run dev`
 
