@@ -25,7 +25,7 @@ const Form = ({setList}) => {
     <input type='text' placeholder='#FFFFFF/White' onChange= {event => setColor(event.target.value)}/>
     <input type='submit' value='Generate' autoFocus/>
    </form>
-   {error ? <p className='error'> This color isn't exists ;-; </p> : ''}
+   {error ? <p className='error'> This color isn't exists </p> : ''}
   </div>
  )
 }
