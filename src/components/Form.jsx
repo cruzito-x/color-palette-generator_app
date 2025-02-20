@@ -20,7 +20,7 @@ const Form = ({setList}) => {
 
  return (
   <div className='form-colors'>
-   <h1> Color palette Generator </h1>
+   <h1> Color Scales Generator </h1>
    <form onSubmit={handleGenerator}>
     <input type='text' placeholder='#FFFFFF/White' onChange= {event => setColor(event.target.value)}/>
     <input type='submit' value='Generate' autoFocus/>
